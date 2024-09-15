@@ -28,4 +28,4 @@ Instruções de uso:
 
 ## Autor
 
-Desenvolvido por [JohnatanG3](https://github.com/SeuUsuario) em uma vídeo aula do Youtube pelo Dev Club.
+Desenvolvido por [JohnatanG3](https://github.com/JohnatanG3) em uma vídeo aula do Youtube pelo Dev Club.
